@@ -22,5 +22,3 @@ Hi! I’m Amin, a **second-year HBO ICT student at HvA**. I’m passionate about
 - Email: [aminmousoun89@hotmail.com](mailto:aminmousoun89@hotmail.com)
 
 ---
-
-> "Always be learning and building!"
